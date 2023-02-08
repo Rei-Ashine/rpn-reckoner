@@ -9,8 +9,6 @@ include = ["src/", "README.md"]
 homepage = "https://github.com/Rei-Ashine/rpn-reckoner/README.md"
 repository = "https://github.com/Rei-Ashine/rpn-reckoner"
 
-[dependencies]
-
 [package.metadata.docs.rs]
 rustdoc-args = ["--cfg", "doc_cfg"]
 
