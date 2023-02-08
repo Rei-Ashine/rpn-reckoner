@@ -1,4 +1,4 @@
-# [RPN-Reckoner](https://docs.rs/rpn_reckoner/0.1.1/rpn_reckoner/)
+# [RPN-Reckoner](https://crates.io/crates/rpn-reckoner/)
 DATE: Feb. 8th, 2023
 
 This package provides a Rust library and an executable for doing Reverse Polish Notation (: RPN) calculations.
@@ -81,4 +81,4 @@ To start the REPL for evaluating RPN expressions, the command `cargo run` should
 
 ## License
 
-- [MIT](https://github.com/Rei-Ashine/rpn-reckoner/LICENSE)
+- [MIT](https://github.com/Rei-Ashine/rpn-reckoner/blob/main/LICENSE)

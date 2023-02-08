@@ -1,12 +1,12 @@
 [package]
 name = "rpn-reckoner"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Rei-Ashine"]
 description = "A Reverse Polish Notation library"
 license = "MIT"
 include = ["src/", "README.md"]
-homepage = "https://github.com/Rei-Ashine/rpn-reckoner/blob/main/README.md"
+homepage = "https://github.com/Rei-Ashine"
 repository = "https://github.com/Rei-Ashine/rpn-reckoner"
 
 [package.metadata.docs.rs]
