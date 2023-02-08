@@ -1,4 +1,4 @@
-# [RPN-Reckoner](https://docs.rs/rpn_reckoner/0.1.0/rpn_reckoner/)
+# [RPN-Reckoner](https://docs.rs/rpn_reckoner/0.1.1/rpn_reckoner/)
 DATE: Feb. 8th, 2023
 
 This package provides a Rust library and an executable for doing Reverse Polish Notation (: RPN) calculations.
