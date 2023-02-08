@@ -1,12 +1,15 @@
 # [RPN-Reckoner](https://crates.io/crates/rpn-reckoner/)
 DATE: Feb. 8th, 2023
 
-This package provides a Rust library and an executable for doing Reverse Polish Notation (: RPN) calculations.
+This package provides a Rust library and <br>
+an executable for doing Reverse Polish Notation (: RPN) calculations.
 
 ## Library
 
-This package's library allows for evaluating RPN expressions by using the function `rpn_reckoner::eval(expression: String) -> Result<f64, String>`.<br>
-This function takes an RPN expression as a string argument and returns a result, either the evaluated value as a float or an error message as a string.
+This package's library allows for evaluating RPN expressions <br>
+by using the function `rpn_reckoner::eval(expression: String) -> Result<f64, String>`. <br>
+This function takes an RPN expression as a string argument and returns a result, <br>
+either the evaluated value as a float or an error message as a string.
 
 ## Installation
 
@@ -40,8 +43,14 @@ fn main() {
 ```
 
 ## Read-Eval-Print Loop (: REPL)
+```bash
+git clone https://github.com/Rei-Ashine/rpn-reckoner.git
+```
 
-To start the REPL for evaluating RPN expressions, the command `cargo run` should be run in the terminal.
+To start the REPL for evaluating RPN expressions, <br>
+the command `cargo run` should be run in the terminal.
+
+![REPL](./PNG/RPN-Reckoner_REPL.png)
 
 ## Directory Structure
 ```
